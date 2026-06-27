@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/multipleBodies.dir/main.cpp.o CMakeFiles/multipleBodies.dir/body.cpp.o -o multipleBodies  -Wl,-rpath,/usr/local/lib /usr/local/lib/libsfml-graphics.3.0.2.dylib /usr/local/lib/libsfml-window.3.0.2.dylib /usr/local/lib/libsfml-system.3.0.2.dylib

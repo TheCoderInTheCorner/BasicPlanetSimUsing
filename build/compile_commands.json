@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/basukhadka/Desktop/C++/multipleBodies/build",
+  "command": "/usr/bin/c++  -I/Users/basukhadka/Desktop/C++/multipleBodies/Include -g -std=gnu++17 -o CMakeFiles/multipleBodies.dir/main.cpp.o -c /Users/basukhadka/Desktop/C++/multipleBodies/main.cpp",
+  "file": "/Users/basukhadka/Desktop/C++/multipleBodies/main.cpp",
+  "output": "CMakeFiles/multipleBodies.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/basukhadka/Desktop/C++/multipleBodies/build",
+  "command": "/usr/bin/c++  -I/Users/basukhadka/Desktop/C++/multipleBodies/Include -g -std=gnu++17 -o CMakeFiles/multipleBodies.dir/body.cpp.o -c /Users/basukhadka/Desktop/C++/multipleBodies/body.cpp",
+  "file": "/Users/basukhadka/Desktop/C++/multipleBodies/body.cpp",
+  "output": "CMakeFiles/multipleBodies.dir/body.cpp.o"
+}
+]

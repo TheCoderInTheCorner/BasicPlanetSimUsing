@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20260615-1913-Experimental"
+	Name="basus-iMac.lan"
+	Generator="ctest-4.3.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="15.0.0.15000100"
+	OSName="macOS"
+	Hostname="basus-iMac.lan"
+	OSRelease="13.7.8"
+	OSVersion="22H730"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ModelName="Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2300.000000"
+	>
+	<Testing>
+		<StartDateTime>Jun 27 12:39 EDT</StartDateTime>
+		<StartTestTime>1782578387</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 27 12:39 EDT</EndDateTime>
+		<EndTestTime>1782578387</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
